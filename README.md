@@ -14,3 +14,4 @@ Vue 3 starting project using:
 - axios
 - axios interceptor
 - sjcl security 
+- boostrap v5
